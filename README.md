@@ -1,4 +1,4 @@
-# IntegerCalculatorwithFPGA
+# CalculatorwithFPGA
 
 ## Introduction 
 * This project uses NEXYS DDR4 board to do integer calculation such as addition, subtraction, multiplication and division.
