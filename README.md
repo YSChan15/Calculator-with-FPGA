@@ -18,7 +18,7 @@
 ### Program 
 * Vivado 2019.1 version
 
-> **Note**: Vivado 2019.1 version is not available anymore. Please use Vivado 2023 version from this [link](https://www.xilinx.com/support/download.html).
+> **Note**: Vivado 2019.1 version is deprecated. Please use Vivado 2023 version from this [link](https://www.xilinx.com/support/download.html).
 
 ### Hardware
 * Xilinx NEXYS A7 50T / 100T
