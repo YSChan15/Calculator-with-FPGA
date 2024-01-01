@@ -2,6 +2,14 @@
 
 ## Introduction 
 * This project uses NEXYS DDR4 board to do integer calculation such as addition, subtraction, multiplication and division.
+| Keypad | Operation |
+|--------|-----------|
+| A      | Addition  |  
+| B | Subtraction    | 
+| C | Multiplication |
+| D | Division       |
+| * | Negation       | 
+| = | Equal or Accessing Memory | 
 
 * A 4x4 keypad is used to do the operation, connected via Pmod Header.
 
