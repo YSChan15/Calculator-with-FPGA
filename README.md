@@ -3,6 +3,8 @@
 ## Introduction 
 * This project uses NEXYS DDR4 board to do integer calculation such as addition, subtraction, multiplication and division.
 
+![](Pictures/Setup.jpg)
+
 * The following table shows each operations for each letter on the keypad.
 
 | Keypad | Operation |
@@ -65,3 +67,6 @@
 * A 4x4 keypad. Keypad can be purchased via this [link](https://www.amazon.com/Matrix-Membrane-Keyboard-Arduino-MicrocontrollerWIshioT/dp/B07B4DR5SH/ref=asc_df_B07B4DR5SH/?tag=hyprod-20&linkCode=df0&hvadid=459641693740&hvpos=&hvnetw=g&hvrand=11472968615419084120&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9020068&hvtargid=pla-942741144682&psc=1&mcid=0634068134253779bfedfe6580e15e3c).
 
 
+
+
+[def]: Se
